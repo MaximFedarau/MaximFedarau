@@ -4,7 +4,7 @@
 <h3>📈My GitHub stats</h3>
 
 <a href="https://github.com/MaximFedarau">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFedarau&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFedarau&theme=tokyonight&layout=compact&langs_count=7&hide=html,css" />
 </a>
 
 <a href="https://github.com/MaximFedarau">
