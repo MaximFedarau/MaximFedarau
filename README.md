@@ -4,9 +4,9 @@
 <h3>📈My GitHub stats</h3>
 
 <a href="https://github.com/MaximFedarau">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFedarau&theme=tokyonight&layout=compact&langs_count=7&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFedarau&theme=tokyonight&layout=compact&langs_count=7&hide=html,css" />
 </a>
 
 <a href="https://github.com/MaximFedarau">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MaximFedarau&show_icons=true&line_height=27&count_private=true&include_all_commits=true&icon_color=4AB097&bg_color=1A2B34&theme=tokyonight" alt="Maxim's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximFedarau&show_icons=true&line_height=27&count_private=true&include_all_commits=true&icon_color=4AB097&bg_color=1A2B34&theme=tokyonight" alt="Maxim's GitHub Stats" />
 </a>
