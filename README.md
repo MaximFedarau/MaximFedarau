@@ -44,7 +44,7 @@
   <summary><h3>⏰My Wakatime stats</h3></summary>
   <h3>Languages over last 7 days:<h3>
   <p align="center">
-    <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/4df59a9c-d1fc-4698-80b7-f9aaf3825c89.svg"/>
+    <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/c3ea1261-c5f4-4777-8b21-87fc13f860ce.svg"/>
   </p>
 </details>
 
