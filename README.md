@@ -29,7 +29,7 @@
 </section>
 
 <details>
-  <summary><h3>📈My GitHub stats</h3></summary>
+  <summary><h3>📈 GitHub stats</h3></summary>
   <a href="https://github.com/MaximFedarau">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFedarau&theme=tokyonight&layout=compact&langs_count=7&hide=html,css" />
   </a>
@@ -41,10 +41,10 @@
 </details>
 
 <details>
-  <summary><h3>⏰My Wakatime stats</h3></summary>
+  <summary><h3>⏰ Wakatime stats</h3></summary>
   <h3>Languages over last 7 days:<h3>
   <p align="center">
-    <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/c3ea1261-c5f4-4777-8b21-87fc13f860ce.svg"/>
+    <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/ec7cde24-950c-48f0-b56a-145d6bbd008b.svg"/>
   </p>
 </details>
 
