@@ -9,10 +9,10 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn" /> 
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" />
     <img height="50" src="https://user-images.githubusercontent.com/87207122/188324989-b61ede43-4167-456a-adbe-f6796dc8e9e7.png" alt="NextJS" title="NextJS" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="ExpressJS" title="ExpressJS" />
     <img height="50" src="https://user-images.githubusercontent.com/87207122/188324988-9e9bff22-12d3-4376-8b24-ebb305c21a5d.svg" alt="NestJS" title="NestJS" />
-    <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest" />
     <img height="50" src="https://user-images.githubusercontent.com/87207122/188324991-f7147d3e-d271-48ea-a8d4-b532e85205b2.png" alt="Storybook" title="Storybook" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
@@ -22,8 +22,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
+    <img height="50" src="https://user-images.githubusercontent.com/87207122/188324990-ed8df245-fade-4490-8744-4b3a88916fac.png" alt="SQLite" title="SQLite" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB" />
-  <img height="50" src="https://user-images.githubusercontent.com/87207122/188324990-ed8df245-fade-4490-8744-4b3a88916fac.png" alt="sqlite" title="sqlite" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />
 </section>
@@ -44,7 +44,7 @@
   <summary><h3>⏰ Wakatime stats</h3></summary>
   <h3>Languages over last 7 days:<h3>
   <p align="center">
-    <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/989c9843-1ebe-4970-8949-a31a3aa1563c.svg"/>
+    <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/852ae4d3-e462-43b7-ab41-e976b47ea3dd.svg"/>
   </p>
 </details>
 
