@@ -20,6 +20,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png" alt="SASS" title="SASS" />
     <img height="50" src="https://user-images.githubusercontent.com/87207122/188324998-207cc181-a461-4e30-a2e1-538dca1946ac.svg" alt="TailwindCSS" title="TailwindCSS" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
     <img height="50" src="https://user-images.githubusercontent.com/87207122/188324990-ed8df245-fade-4490-8744-4b3a88916fac.png" alt="SQLite" title="SQLite" />
