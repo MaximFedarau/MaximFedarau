@@ -40,11 +40,12 @@
 
 <section align="center">
     <details>
-      <summary><h3> 📈 GitHub</h3></summary>
+      <summary><h2> 🐙 GitHub </h2></summary>
       <a href="https://github.com/MaximFedarau">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFedarau&theme=tokyonight&layout=compact&langs_count=7&hide=html,css" />
       </a>
-      &nbsp;
+      <br/>
+      <br/>
       <a href="https://github.com/MaximFedarau">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximFedarau&show_icons=true&line_height=27&count_private=true&include_all_commits=true&icon_color=4AB097&bg_color=1A2B34&theme=tokyonight" alt="Maxim's GitHub Stats" />
       </a>
@@ -53,7 +54,7 @@
 
 <section align="center">
     <details>
-      <summary><h3> ⏰ WakaTime (over 7 last days)</h3></summary>
+      <summary><h2> ⏰ WakaTime </h2></summary>
       <p align="center">
         <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/1caebbaf-1974-4f6e-a875-938ab0c308b0.svg"/>
       </p>
