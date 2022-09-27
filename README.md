@@ -56,7 +56,7 @@
     <details>
       <summary><h2> ⏰ WakaTime </h2></summary>
       <p align="center">
-        <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/7ac5c0f8-08d3-4efe-ab96-acf8ed0237d8.svg"/>
+        <img src="https://wakatime.com/share/@f560a120-d9a6-4027-b59d-bbdfbddb7b8e/7a66fd28-96a4-4169-83c1-2669491a8633.svg"/>
       </p>
     </details>
 </section>
