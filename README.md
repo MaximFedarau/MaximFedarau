@@ -69,5 +69,9 @@
   <a href="https://twitter.com/fedarau_m">
     <img height="30" src="https://user-images.githubusercontent.com/87207122/188325365-b3c0cfd0-cec6-4c05-84d6-8483a7c080d6.png" alt="Twitter" title="Twitter" />
   </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/19263207/maxim-fedarau">
+    <img height="30" src="https://user-images.githubusercontent.com/87207122/193460735-8e225d0c-c222-4338-9a1d-77b6e6d975c0.png" alt="Stack Overflow" title="Stack Overflow" />
+  </a>
 </section>
 
