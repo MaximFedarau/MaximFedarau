@@ -73,5 +73,9 @@
   <a href="https://stackoverflow.com/users/19263207/maxim-fedarau">
     <img height="30" src="https://user-images.githubusercontent.com/87207122/193460735-8e225d0c-c222-4338-9a1d-77b6e6d975c0.png" alt="Stack Overflow" title="Stack Overflow" />
   </a>
+  &nbsp;
+  <a href="https://dev.to/maximfedarau">
+    <img height="30" src="https://user-images.githubusercontent.com/87207122/198119094-399004da-3b86-4c6b-a685-381efbaea75b.svg" alt="DEV" title="DEV" />
+  </a>
 </section>
 
