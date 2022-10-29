@@ -2,8 +2,8 @@
 
 - 🌱 Currently learning `Vue.js` ecosystem and `Rust`.
 - 😁 Maxim's modes:
-    - [x] 🤓 Studying at school.
-    - [ ] 🥳 Holidays! 
+    - [ ] 🤓 Studying at school.
+    - [x] 🥳 Holidays! 
     - [ ] 😴 Resting...
 - ❤️ My hobbies:
     - 🎥 Watching films.
