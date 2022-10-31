@@ -1,6 +1,6 @@
 # 🖖, I'm Maxim Fedarau
 
-- 🌱 Currently learning `Vue.js` ecosystem and `Rust`.
+- 🌱 Currently learning `Swift` and `Rust`.
 - 😁 Maxim's modes:
     - [ ] 🤓 Studying at school.
     - [x] 🥳 Holidays! 
