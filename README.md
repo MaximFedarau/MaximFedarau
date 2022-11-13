@@ -1,6 +1,6 @@
 # 🖖, I'm Maxim Fedarau
 
-- 🌱 Currently learning `Swift`/`Kotlin` and `Rust`.
+- 🌱 Currently learning `Swift`, `Kotlin` & `Rust`.
 - 😁 Maxim's modes:
     - [x] 🤓 Studying at school.
     - [ ] 🥳 Holidays! 
