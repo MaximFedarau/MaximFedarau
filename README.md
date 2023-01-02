@@ -3,8 +3,8 @@
 - 🌱 Currently learning `Swift`, `Kotlin` & `Rust`.
 - 😁 Maxim's modes:
     - [ ] 🤓 Studying at school.
-    - [ ] 🥳 Holidays! 
-    - [x] 😴 Resting...
+    - [x] 🥳 Holidays! 
+    - [ ] 😴 Resting...
 - ❤️ My hobbies:
     - 🎥 Watching films.
     - 📚 Reading books.
